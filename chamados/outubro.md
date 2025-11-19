@@ -4,36 +4,6 @@ description: Todos chamados do mês
 
 # Outubro
 
-A cliente solicitou a instalação do Otimizador.
-
-Gentileza verificar a possibilidade de configuração.
-
-265765 - PET RESOLVE
-
-Em contato com a Viviane, foi auxiliada a gerar um pedido com produto fracionado, onde no caso dela, foi necessário acessar o modulo de orçamento, para ai sim gerar como pedido NFe.
-
-265772 - 637
-
-Em contato com o Diogo, foi orientado a finalizar uma pré-venda como pedido, aplicar o desconto por se tratar de venda entre lojas(filiais).
-
-Como não são filiais no mesmo CNPJ, o procedimento deve ser realizado dessa forma.
-
-265781 - 454 DROGARIA ZE GERALDO
-
-Ao gerar a NFe de devolução, foi identificado que o valor final (R$ 81,48) diverge do valor apresentado no espelho da nota (R$ 76,23).
-
-No espelho da NFe não constam tributos, além disso, o valor do produto está divergente.
-
-Mesmo ao gerar a NFe com imposto, o valor é alterado, passando para R$ 86,00.
-
-TV: 1945565086 - padrão
-
-T:\454 - DROGARIA ZE GERALDO
-
-3125.1045.4532.1400.2014.5502.9000.0367.7015.47330124
-
-\---
-
 06/10/2025
 
 265799 - DROGASUL(119)
