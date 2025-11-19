@@ -19,3 +19,5 @@
     * [08/09](chamados/setembro/08-09.md)
     * [09/09](chamados/setembro/09-09.md)
     * [10/09](chamados/setembro/10-09.md)
+  * [Outubro](chamados/outubro.md)
+* [Sem data](sem-data.md)
